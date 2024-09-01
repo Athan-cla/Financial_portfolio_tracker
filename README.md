@@ -1,3 +1,7 @@
+# Runn conntainer
+- docker build -t financial_portfolio_track
+- docker run -p 3000:3000 financial_portfolio_tracker
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
